@@ -8,8 +8,14 @@ The course will walk you step by step on what to do. This codebase is the starti
 
 Navigate to the root of the project directory, and run the following commands.
 
+```text
+npm install
 ```
-npm install && npm run dev
+
+Then:
+
+```text
+npm run dev
 ```
 
 The `final` branch of this repo contains the final stage of the course, with all of the steps and code completed! If you get stuck, you can refer to it and compare your code.
