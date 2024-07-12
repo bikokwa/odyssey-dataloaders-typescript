@@ -1,6 +1,6 @@
-# (Odyssey Course) Intro to GraphQL with TypeScript
+# (Odyssey Course) Data loaders with Apollo Server & TypeScript
 
-Welcome to the starter code for **Intro to GraphQL with TypeScript**. You can find the [course lessons and instructions](https://apollographql.com/tutorials/intro-typescript) on Odyssey, [Apollo](https://apollographql.com)'s learning platform.
+Welcome to the starter code for **Data loaders with Apollo Server & TypeScript**. You can find the [course lessons and instructions](https://apollographql.com/tutorials/dataloaders-typescript) on Odyssey, [Apollo](https://apollographql.com)'s learning platform.
 
 ## How to use this repo
 
@@ -20,17 +20,10 @@ This repo is _not regularly monitored_.
 
 For any issues or problems concerning the course content, please refer to the [Odyssey topic in our community forums](https://community.apollographql.com/tags/c/help/6/odyssey). You can also [join the Apollo Discord](https://discord.gg/graphos).
 
-
 # Getting Started
 
 ### Reference Documentation
+
 For further reference, please consider the following sections:
 
-* [Official TypeScript documentation]([https://docs.gradle.org](https://www.typescriptlang.org/docs/))
-
-
-
-
-
-
-
+- [Official TypeScript documentation](<[https://docs.gradle.org](https://www.typescriptlang.org/docs/)>)
