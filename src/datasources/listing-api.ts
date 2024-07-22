@@ -5,6 +5,7 @@ export class ListingAPI extends RESTDataSource {
   baseURL = "https://rt-airlock-services-listing.herokuapp.com/";
 
   getFeaturedListings(): Promise<Listing[]> {
+    console.log("Calling for featured listings");
     return this.get<Listing[]>("featured-listings");
   }
 
